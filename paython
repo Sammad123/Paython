@@ -1,4 +1,11 @@
 # Paython
-Learning a python
-my_lsit = [1,2,3,4,5,6]
+#Learning a python
+my_lsit = ["1,2,3,4,5,6"]
 print(my_list)
+
+name = "Sammad"
+version = "Rstudio - in writting"
+
+
+print(name)
+print("These lines has been written in Rstudio")
